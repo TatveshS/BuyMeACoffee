@@ -1,0 +1,23 @@
+{
+  "name": "buy-me-a-coffee(defi-dapp)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ethersproject/providers": "^5.7.0",
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "chai": "^4.3.6",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.11.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
